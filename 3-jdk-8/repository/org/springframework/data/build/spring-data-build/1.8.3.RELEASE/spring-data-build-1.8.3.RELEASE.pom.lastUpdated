@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 15:23:22 CST 2019
+@default-nexus-daocloud-http\://nexus.daocloud.io/repository/maven-public/.lastUpdated=1574407402047
+http\://nexus.daocloud.io/repository/maven-public/.error=Could not transfer artifact org.springframework.data.build\:spring-data-build\:pom\:1.8.3.RELEASE from/to nexus-daocloud (http\://nexus.daocloud.io/repository/maven-public/)\: Failed to transfer file http\://nexus.daocloud.io/repository/maven-public/org/springframework/data/build/spring-data-build/1.8.3.RELEASE/spring-data-build-1.8.3.RELEASE.pom with status code 308
+https\://repo.maven.apache.org/maven2/.lastUpdated=1574407402614

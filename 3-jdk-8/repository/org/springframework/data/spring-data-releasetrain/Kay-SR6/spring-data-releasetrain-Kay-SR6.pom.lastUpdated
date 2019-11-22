@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 15:23:37 CST 2019
+@default-nexus-daocloud-http\://nexus.daocloud.io/repository/maven-public/.lastUpdated=1574407416917
+http\://nexus.daocloud.io/repository/maven-public/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Kay-SR6 from/to nexus-daocloud (http\://nexus.daocloud.io/repository/maven-public/)\: Failed to transfer file http\://nexus.daocloud.io/repository/maven-public/org/springframework/data/spring-data-releasetrain/Kay-SR6/spring-data-releasetrain-Kay-SR6.pom with status code 308
+https\://repo.maven.apache.org/maven2/.lastUpdated=1574407417309

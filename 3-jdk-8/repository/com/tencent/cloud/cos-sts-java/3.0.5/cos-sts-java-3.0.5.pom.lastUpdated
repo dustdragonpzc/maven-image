@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 15:24:47 CST 2019
+@default-nexus-daocloud-http\://nexus.daocloud.io/repository/maven-public/.lastUpdated=1574407486847
+https\://dl.bintray.com/qcloud/maven-repo/.lastUpdated=1574407487881
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://nexus.daocloud.io/repository/maven-public/.error=Could not transfer artifact com.tencent.cloud\:cos-sts-java\:pom\:3.0.5 from/to nexus-daocloud (http\://nexus.daocloud.io/repository/maven-public/)\: Failed to transfer file http\://nexus.daocloud.io/repository/maven-public/com/tencent/cloud/cos-sts-java/3.0.5/cos-sts-java-3.0.5.pom with status code 308
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1574407486809

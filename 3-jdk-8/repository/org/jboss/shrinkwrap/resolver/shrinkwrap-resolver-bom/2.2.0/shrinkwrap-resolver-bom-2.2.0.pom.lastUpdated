@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 15:19:24 CST 2019
+@default-nexus-daocloud-http\://nexus.daocloud.io/repository/maven-public/.lastUpdated=1574407160749
+http\://nexus.daocloud.io/repository/maven-public/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.2.0 from/to nexus-daocloud (http\://nexus.daocloud.io/repository/maven-public/)\: Failed to transfer file http\://nexus.daocloud.io/repository/maven-public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom with status code 308
+https\://repo.maven.apache.org/maven2/.lastUpdated=1574407164154

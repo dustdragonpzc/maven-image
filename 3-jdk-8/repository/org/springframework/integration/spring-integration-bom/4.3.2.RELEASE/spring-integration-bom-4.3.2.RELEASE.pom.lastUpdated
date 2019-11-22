@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 15:23:24 CST 2019
+@default-nexus-daocloud-http\://nexus.daocloud.io/repository/maven-public/.lastUpdated=1574407402654
+http\://nexus.daocloud.io/repository/maven-public/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.2.RELEASE from/to nexus-daocloud (http\://nexus.daocloud.io/repository/maven-public/)\: Failed to transfer file http\://nexus.daocloud.io/repository/maven-public/org/springframework/integration/spring-integration-bom/4.3.2.RELEASE/spring-integration-bom-4.3.2.RELEASE.pom with status code 308
+https\://repo.maven.apache.org/maven2/.lastUpdated=1574407404717
